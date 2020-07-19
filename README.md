@@ -1,6 +1,6 @@
 # Testing gitignore
 
-.gitignore gave me some grief the other day.
+.gitignore gave me grief the other day.
 So this is practice !
 
 ## My Findings
