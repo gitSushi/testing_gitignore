@@ -1,0 +1,13 @@
+# the issue was with a .txt file
+
+################################
+# NOTE :
+# As I save this .gitignore file
+# with my testing_commands.txt in it
+# its ref in the explorer changes to a darker gray
+# 
+# if I comment it out
+# it turns light gray
+################################
+
+testing_commands.txt
